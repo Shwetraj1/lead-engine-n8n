@@ -41,4 +41,4 @@ See `/data/sample-output.json`
 
 ## 👨‍💻 Author
 
-Shwet Raj
+Prakriti Pandey & Shwet Raj
