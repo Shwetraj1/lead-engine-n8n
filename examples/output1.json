@@ -1,0 +1,1410 @@
+[
+  {
+    "title": "Dr. Sabine Clemens Zahnarztpraxis",
+    "totalScore": 4.6,
+    "reviewsCount": 11,
+    "street": "Lammersdorfer Str. 19 A",
+    "city": "Roetgen",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://clemens-zahnarztpraxis.de/",
+    "phone": "+49 2471 132111",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Sabine%20Clemens%20Zahnarztpraxis&query_place_id=ChIJkbhxk6xiv0cRQiMgY1QVZDQ",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Ella Briks, M.Sc. Zahnarztpraxis für Zahnerhaltung und Zahnkorrektur",
+    "totalScore": 5,
+    "reviewsCount": 34,
+    "street": "Auf der Höhe 16",
+    "city": "Gailingen am Hochrhein",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.ellabriks.de/",
+    "phone": "+49 7734 9367222",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Endodontist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ella%20Briks%2C%20M.Sc.%20Zahnarztpraxis%20f%C3%BCr%20Zahnerhaltung%20und%20Zahnkorrektur&query_place_id=ChIJ3_dY0iaHmkcRsEUOmVVBtUA",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnärzte am Heilsberg",
+    "totalScore": 4.4,
+    "reviewsCount": 28,
+    "street": "Burgstraße 9",
+    "city": "Gottmadingen",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://www.zahnaerzte-heilsberg.de/",
+    "phone": "+49 7731 9115730",
+    "categories": [
+      "Dentist",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "First aid station",
+      "Oral surgeon"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahn%C3%A4rzte%20am%20Heilsberg&query_place_id=ChIJjabIsR-HmkcRcnCvOyrnjO8",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarzt Stephan Liepe",
+    "totalScore": 5,
+    "reviewsCount": 22,
+    "street": "Wasserstraße 50",
+    "city": "Stralsund",
+    "state": null,
+    "countryCode": "DE",
+    "website": null,
+    "phone": "+49 3831 293302",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarzt%20Stephan%20Liepe&query_place_id=ChIJJeEnu7djq0cRAGo_aOKPU44",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahngesundheit Molliblick Stefanie Warmuth",
+    "totalScore": 4.7,
+    "reviewsCount": 17,
+    "street": "Goethestraße 1A",
+    "city": "Bad Doberan",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://zahngesundheit-molliblick.de/",
+    "phone": "+49 38203 916120",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahngesundheit%20Molliblick%20Stefanie%20Warmuth&query_place_id=ChIJvRpsNA1TrEcR-roJ2enAdY4",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarztpraxis am Frankendamm",
+    "totalScore": 4.7,
+    "reviewsCount": 14,
+    "street": "Frankendamm 27",
+    "city": "Stralsund",
+    "state": null,
+    "countryCode": "DE",
+    "website": null,
+    "phone": "+49 3831 293466",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarztpraxis%20am%20Frankendamm&query_place_id=ChIJvwr-bLpjq0cRjLVcaseTg1g",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarztpraxis Frau Andrea Koglin",
+    "totalScore": 4.6,
+    "reviewsCount": 17,
+    "street": "Lange Str. 38",
+    "city": "Greifswald",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.praxis-koglin.org/",
+    "phone": "+49 3834 894695",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarztpraxis%20Frau%20Andrea%20Koglin&query_place_id=ChIJk5v_lfB0q0cRxC3N2tsD_pk",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarztpraxis Uwe Dannehl",
+    "totalScore": 4.8,
+    "reviewsCount": 32,
+    "street": "Marktstraße 8A",
+    "city": "Bergen auf Rügen",
+    "state": null,
+    "countryCode": "DE",
+    "website": null,
+    "phone": "+49 3838 23069",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarztpraxis%20Uwe%20Dannehl&query_place_id=ChIJN2_IJVpDq0cRMCcGQx_7D4k",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Herr Andreas Wäscher",
+    "totalScore": 4.8,
+    "reviewsCount": 40,
+    "street": "Heinrich-Heine-Ring 107 c",
+    "city": "Stralsund",
+    "state": null,
+    "countryCode": "DE",
+    "website": null,
+    "phone": "+49 3831 390208",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Herr%20Andreas%20W%C3%A4scher&query_place_id=ChIJD4dIrz1iq0cRjzOyjj88aXk",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Dorow Clinic Gottmadingen - Zahnarzt u. Implantologie",
+    "totalScore": 5,
+    "reviewsCount": 169,
+    "street": "Hauptstraße 55",
+    "city": "Gottmadingen",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://dorow-clinic.de/zahnarzt-gottmadingen/?utm_source=gmb&utm_medium=profile&utm_campaign=zahnarzt-gottmadingen&utm_content=hauptlink#gmb-zahnarzt-gottmadingen",
+    "phone": "+49 7731 71193",
+    "categories": [
+      "Dentist",
+      "Dental clinic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dorow%20Clinic%20Gottmadingen%20-%20Zahnarzt%20u.%20Implantologie&query_place_id=ChIJfZWU6H-HmkcR1VJ5I1mZ4Jg",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarztpraxis Dr. Becker & Kollegen",
+    "totalScore": 4.5,
+    "reviewsCount": 11,
+    "street": "Waldstraße 6a",
+    "city": "Lubmin",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://www.zahnarzt-becker.de/",
+    "phone": "+49 38354 22050",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarztpraxis%20Dr.%20Becker%20%26%20Kollegen&query_place_id=ChIJxz5oyPIOq0cRA-az-qXH3W0",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "DR. GELBERG Zahnarzt, Oralchirurg, Keramikimplantate",
+    "totalScore": 5,
+    "reviewsCount": 71,
+    "street": "Dammchaussee 30A",
+    "city": "Bad Doberan",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://dr-gelberg.de/",
+    "phone": "+49 38203 40606",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental radiology",
+      "Oral surgeon"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR.%20GELBERG%20Zahnarzt%2C%20Oralchirurg%2C%20Keramikimplantate&query_place_id=ChIJ33C9IIFVrEcRZK_nDMCxMmU",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarztpraxis Tiede Rostock",
+    "totalScore": 4.7,
+    "reviewsCount": 73,
+    "street": "Bertolt-Brecht-Straße 23",
+    "city": "Rostock",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.zahnarzt-tiede.de/",
+    "phone": "+49 381 7699324",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarztpraxis%20Tiede%20Rostock&query_place_id=ChIJ1yN7d5BWrEcRszNqCv9kWwg",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "MVZ Zahnzentrum Rostock Jörn Thürkow & Dr. Ralf Bünger GbR",
+    "totalScore": 4,
+    "reviewsCount": 52,
+    "street": "Deutsche-Med-Platz 1/2",
+    "city": "Rostock",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://kinderzahnarzt.zahnzentrum-hro.de/",
+    "phone": "+49 381 33715071",
+    "categories": [
+      "Pediatric dentist",
+      "Cosmetic dentist",
+      "Dentist",
+      "Emergency dental service"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=MVZ%20Zahnzentrum%20Rostock%20J%C3%B6rn%20Th%C3%BCrkow%20%26%20Dr.%20Ralf%20B%C3%BCnger%20GbR&query_place_id=ChIJt_b8ulJXrEcRN_ZFwQsceIU",
+    "categoryName": "Pediatric dentist"
+  },
+  {
+    "title": "Zahnarztpraxis Dr. Julia Gurle",
+    "totalScore": 4.6,
+    "reviewsCount": 47,
+    "street": "Strandstraße 4",
+    "city": "Baabe",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://zahnarzt-auf-ruegen.de/",
+    "phone": "+49 38303 87785",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarztpraxis%20Dr.%20Julia%20Gurle&query_place_id=ChIJ35u23fg9q0cRX9X8xKTznMI",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "MVZ 32 Zähne im Glück GmbH",
+    "totalScore": 4.9,
+    "reviewsCount": 33,
+    "street": "Henrik-Ibsen-Straße 30",
+    "city": "Rostock",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://hro.32-zig.de/",
+    "phone": "+49 381 724302",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=MVZ%2032%20Z%C3%A4hne%20im%20Gl%C3%BCck%20GmbH&query_place_id=ChIJx8g6RA1XrEcR8yjBsyeHiDI",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Gemeinschaftspraxis Dr. Martens",
+    "totalScore": 3.9,
+    "reviewsCount": 30,
+    "street": "Rostocker Str. 42",
+    "city": "Ribnitz-Damgarten",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.zahnarzt-martens.de/",
+    "phone": "+49 3821 810377",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gemeinschaftspraxis%20Dr.%20Martens&query_place_id=ChIJt79UtXrzrEcRCwpG7rLIwXQ",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnärzte am Kugelbrunnen - Dr. Tom Galinat und Kollegen",
+    "totalScore": 4.4,
+    "reviewsCount": 27,
+    "street": "Goerdelerstraße 50",
+    "city": "Rostock",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://www.zahnarzt-rostock.info/",
+    "phone": "+49 381 8098389",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahn%C3%A4rzte%20am%20Kugelbrunnen%20-%20Dr.%20Tom%20Galinat%20und%20Kollegen&query_place_id=ChIJpy2N39BWrEcRv5Qfzz9CJ1U",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnärztin Annett Haase",
+    "totalScore": 4.6,
+    "reviewsCount": 45,
+    "street": "Dünenstraße 33A",
+    "city": "Binz",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.zahnaerztin-haase.de/",
+    "phone": "+49 38393 2409",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahn%C3%A4rztin%20Annett%20Haase&query_place_id=ChIJ0YjeY4Q_q0cRp3IsRdSWiuI",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Dr. Johanna Schmidt",
+    "totalScore": 4.7,
+    "reviewsCount": 40,
+    "street": "Dubenweg 1",
+    "city": "Rostock",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://zahnarzt-dierkow.com/",
+    "phone": "+49 381 681890",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Johanna%20Schmidt&query_place_id=ChIJiQzXd-dZrEcRlufyYlkQiaU",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Wiesbaden Army Health Clinic",
+    "totalScore": 2.5,
+    "reviewsCount": 31,
+    "street": "Flugplatz Erbenheim 1040",
+    "city": "Wiesbaden",
+    "state": null,
+    "countryCode": "DE",
+    "website": null,
+    "phone": "+49 6371 94645762",
+    "categories": [
+      "Medical clinic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Wiesbaden%20Army%20Health%20Clinic&query_place_id=ChIJgxe4rPmXvUcRg6-gh_Xz59s",
+    "categoryName": "Medical clinic"
+  },
+  {
+    "title": "Dr. Steffen G. Tschackert",
+    "totalScore": 4.8,
+    "reviewsCount": 22,
+    "street": "Goethestraße 23",
+    "city": "Frankfurt am Main",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://www.tschackert.com/",
+    "phone": "+49 69 283030",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Steffen%20G.%20Tschackert&query_place_id=ChIJe8KG7UaYB0cR5POm5u2VsVU",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Goethe Dental School",
+    "totalScore": 3.7,
+    "reviewsCount": 3,
+    "street": "Theodor-Stern-Kai 7",
+    "city": "Frankfurt am Main",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.goethe-dental-school.de/zh/about-us/%E5%9B%BE%E7%89%87%E5%BA%93/2017%E5%A4%A7%E4%BC%9A/",
+    "phone": "+49 69 63015729",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Goethe%20Dental%20School&query_place_id=ChIJW9lwy_cLvUcRE7jnM3AT6DU",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Wiesbaden Dental Care",
+    "totalScore": 4.1,
+    "reviewsCount": 38,
+    "street": "Bahnstraße 14",
+    "city": "Wiesbaden",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://wiesbadendental.com/",
+    "phone": "+49 611 98872650",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Wiesbaden%20Dental%20Care&query_place_id=ChIJhcD8zWK9vUcRMv_R5l0UaAs",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "AllDent Zahnzentrum Mainz",
+    "totalScore": 4.9,
+    "reviewsCount": 1799,
+    "street": "Weißliliengasse 14",
+    "city": "Mainz",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.alldent-zahnzentrum-mainz.de/",
+    "phone": "+49 6131 636260",
+    "categories": [
+      "Emergency dental service",
+      "Dental clinic",
+      "Denture care center"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=AllDent%20Zahnzentrum%20Mainz&query_place_id=ChIJsYWle8GXvUcRU9uY1oqkSM8",
+    "categoryName": "Emergency dental service"
+  },
+  {
+    "title": "Dental practice dental Island",
+    "totalScore": 5,
+    "reviewsCount": 82,
+    "street": "Schillerstraße 28",
+    "city": "Frankfurt am Main",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.dental-island.de/",
+    "phone": "+49 69 98939057",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dental%20practice%20dental%20Island&query_place_id=ChIJDzbtM64OvUcR4x7S8-VdsDU",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarztpraxis Europa-Allee",
+    "totalScore": 4.5,
+    "reviewsCount": 75,
+    "street": "Europa-Allee 138",
+    "city": "Frankfurt am Main",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://zahnarztpraxis-europaallee.de/",
+    "phone": "+49 69 21006858",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarztpraxis%20Europa-Allee&query_place_id=ChIJuUim09kLvUcR0IzM6EBF6as",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarzt Frankfurt Hauptwache - Dental21",
+    "totalScore": 4.8,
+    "reviewsCount": 1144,
+    "street": "An der Hauptwache 7",
+    "city": "Frankfurt am Main",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.dental21-hauptwache.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "phone": "+49 69 87008750",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Denture care center",
+      "Endodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarzt%20Frankfurt%20Hauptwache%20-%20Dental21&query_place_id=ChIJkdU3mN8PvUcRBWT0u3e7kuI",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Alldent Zahnzentrum Frankfurt",
+    "totalScore": 4.9,
+    "reviewsCount": 5138,
+    "street": "Kaiserstraße 1",
+    "city": "Frankfurt am Main",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.alldent-frankfurt.de/",
+    "phone": "+49 69 92883070",
+    "categories": [
+      "Dentist",
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Denture care center",
+      "Emergency care service",
+      "Emergency dental service",
+      "Emergency room",
+      "Endodontist",
+      "Urgent care center"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alldent%20Zahnzentrum%20Frankfurt&query_place_id=ChIJ7U3ZLKkOvUcR3MpBdsQAesE",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Frau Dr. med. dent. Ulrike Babendererde",
+    "totalScore": 5,
+    "reviewsCount": 14,
+    "street": "Karl-Marx-Straße 57",
+    "city": "Rostock",
+    "state": null,
+    "countryCode": "DE",
+    "website": null,
+    "phone": "+49 381 4590190",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Frau%20Dr.%20med.%20dent.%20Ulrike%20Babendererde&query_place_id=ChIJ-xbPgjNXrEcRQqmnVgSsYGY",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Dr. Hamann & Kollegen | Ihr Zahnarzt Rostock | Kompetenz-Zentrum für Zahnmedizin",
+    "totalScore": 4.7,
+    "reviewsCount": 66,
+    "street": "Schiffbauerring 16",
+    "city": "Rostock",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://www.drhamann.de/",
+    "phone": "+49 381 1204058",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Hamann%20%26%20Kollegen%20%7C%20Ihr%20Zahnarzt%20Rostock%20%7C%20Kompetenz-Zentrum%20f%C3%BCr%20Zahnmedizin&query_place_id=ChIJfxfGu0JWrEcRmWLWLcUh0sU",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "EKODENT DENTAL-HANDEL Köln",
+    "totalScore": 4.7,
+    "reviewsCount": 18,
+    "phone": "0174 4004482",
+    "categories": [
+      "Dental laboratory"
+    ],
+    "url": "https://www.google.com/maps/place/EKODENT DENTAL-HANDEL Köln/@50.955709,7.010703,14z/data=!3m1!4b1!4m9!3m8!5m2!4m1!1i2!8m2!3d50.955709!4d7.010703!16snull!17Bnull",
+    "categoryName": "Dental laboratory"
+  },
+  {
+    "title": "Zahnarzt Kais Zainab | All You Need Dental MVZ für Oralchirurgie und Zahnmedizin GmbH",
+    "totalScore": 4.2,
+    "reviewsCount": 195,
+    "street": "Olpener Str. 886",
+    "city": "Cologne",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.zahnarzt-koeln-brueck.de/",
+    "phone": "+49 221 842706",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Emergency dental service",
+      "Periodontist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarzt%20Kais%20Zainab%20%7C%20All%20You%20Need%20Dental%20MVZ%20f%C3%BCr%20Oralchirurgie%20und%20Zahnmedizin%20GmbH&query_place_id=ChIJHc9mZcAnv0cRM41JKzkHjOI",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Dental Clinic East - Location Karlshorst",
+    "totalScore": 4.6,
+    "reviewsCount": 221,
+    "street": "Treskowallee 112",
+    "city": "Berlin",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://www.zahnklinik-ost.de/zahnarzt-notdienst-karlshorst/",
+    "phone": "+49 30 50014944",
+    "categories": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dentist",
+      "Emergency dental service",
+      "Oral surgeon",
+      "Orthodontist",
+      "Periodontist",
+      "Surgeon",
+      "Surgical center"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dental%20Clinic%20East%20-%20Location%20Karlshorst&query_place_id=ChIJd13WbNdIqEcRtMj6Lih8RI0",
+    "categoryName": "Dental clinic"
+  },
+  {
+    "title": "Zahnarztpraxis Victor Niklas Steffens",
+    "totalScore": 4.9,
+    "reviewsCount": 31,
+    "street": "Straßen 51",
+    "city": "Bergisch Gladbach",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://zahnarzt-steffens.de/",
+    "phone": "+49 2204 810700",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarztpraxis%20Victor%20Niklas%20Steffens&query_place_id=ChIJI1ZIhxbXvkcRXFoHxkIoSSo",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarztpraxis Martin Kreft",
+    "totalScore": 4.4,
+    "reviewsCount": 42,
+    "street": "Friedrich-Offermann-Straße 5",
+    "city": "Bergisch Gladbach",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://www.zahnarzt-kreft.de/",
+    "phone": "+49 2204 9799399",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarztpraxis%20Martin%20Kreft&query_place_id=ChIJObmDpn_XvkcRn_RdMgZNgQU",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Brincker Philipp Dr. med. dent.",
+    "totalScore": 5,
+    "reviewsCount": 34,
+    "street": "Falltorstraße 12",
+    "city": "Bergisch Gladbach",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://www.zahnarztpraxis-brincker.de/",
+    "phone": "+49 2204 423639",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Brincker%20Philipp%20Dr.%20med.%20dent.&query_place_id=ChIJqWBjN4HXvkcRok1Y6VkL7UY",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Dental Practice Dr. Guld & Associates",
+    "totalScore": 5,
+    "reviewsCount": 67,
+    "street": "Voltastraße 67",
+    "city": "Frankfurt am Main",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://www.guld-zahnaerzte.de/",
+    "phone": "+49 69 97786010",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dental%20Practice%20Dr.%20Guld%20%26%20Associates&query_place_id=ChIJfTQwWmQJvUcRz-h1pe1Ma9w",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Die Praxis Mitte - Zahnarztpraxis Dr. Christina Erdmann & Dr. Anna Trojan",
+    "totalScore": 4.6,
+    "reviewsCount": 139,
+    "street": "Hinterhaus, Münzstraße 5",
+    "city": "Berlin",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.die-praxis.berlin/",
+    "phone": "+49 30 40367600",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Denture care center",
+      "Oral surgeon",
+      "Pediatric dentist",
+      "Periodontist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Die%20Praxis%20Mitte%20-%20Zahnarztpraxis%20Dr.%20Christina%20Erdmann%20%26%20Dr.%20Anna%20Trojan&query_place_id=ChIJm7m4g-1PqEcR9qybv-6X6Ps",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Dr. Emad Khalouf - Zahnzentrum in Berlin",
+    "totalScore": 4.9,
+    "reviewsCount": 175,
+    "street": "Badstraße 19",
+    "city": "Berlin",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://zahnzentrum-in-berlin.de/",
+    "phone": "+49 30 4932050",
+    "categories": [
+      "Dentist",
+      "Doctor"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Emad%20Khalouf%20-%20Zahnzentrum%20in%20Berlin&query_place_id=ChIJ3e_J-SNSqEcR5cBFdNDzzxI",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Alsham Dental Clinic Berlin",
+    "totalScore": 4.6,
+    "reviewsCount": 42,
+    "street": "Erkstraße 1A",
+    "city": "Berlin",
+    "state": null,
+    "countryCode": "DE",
+    "website": null,
+    "phone": "+49 30 6875422",
+    "categories": [
+      "Dentist",
+      "Dental implants provider",
+      "Endodontist",
+      "Orthodontist",
+      "Prosthodontist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alsham%20Dental%20Clinic%20Berlin&query_place_id=ChIJlbUgtu5PqEcRkDi4PKzJB2A",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnkultur Berlin Karlshorst",
+    "totalScore": 4.5,
+    "reviewsCount": 66,
+    "street": "Treskowallee 112",
+    "city": "Berlin",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://www.zahnkultur-berlin.de/zahnarzt-karlshorst/",
+    "phone": "+49 30 50012330",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Denture care center",
+      "Emergency dental service",
+      "Oral surgeon",
+      "Orthodontist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnkultur%20Berlin%20Karlshorst&query_place_id=ChIJd13WbNdIqEcRUbMhZLCmfbU",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "DENTALOGICUM - Zahnmedizin Berlin | Ihr Zahnarzt Friedrichshain - Lichtenberg",
+    "totalScore": 4.8,
+    "reviewsCount": 177,
+    "street": "Frankfurter Allee 69",
+    "city": "Berlin",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://dentalogicum.de/",
+    "phone": "+49 30 55241090",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Denture care center",
+      "Emergency dental service",
+      "Endodontist",
+      "Pediatric dentist",
+      "Periodontist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=DENTALOGICUM%20-%20Zahnmedizin%20Berlin%20%7C%20Ihr%20Zahnarzt%20Friedrichshain%20-%20Lichtenberg&query_place_id=ChIJoYydyYpOqEcRDo6Lnj3hAt8",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Dr. med. dent. Marvin Amann",
+    "totalScore": 4.9,
+    "reviewsCount": 30,
+    "street": "Rosentalstraße 55",
+    "city": "Roetgen",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://zahnarztpraxis-amann.de/",
+    "phone": "+49 2471 2258",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20med.%20dent.%20Marvin%20Amann&query_place_id=ChIJ17Uc6YKCwEcRSdUIF85pAII",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarztpraxis Doctor-medic R. George Rogia",
+    "totalScore": 4.8,
+    "reviewsCount": 32,
+    "street": "Wilhelmstraße 20",
+    "city": "Roetgen",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://zahnarztpraxis-roetgen.de/",
+    "phone": "+49 2471 2248",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarztpraxis%20Doctor-medic%20R.%20George%20Rogia&query_place_id=ChIJd6p3Pnd9v0cR4HVBEuIanMk",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnzentrum Bodensee",
+    "totalScore": 4.9,
+    "reviewsCount": 103,
+    "street": "Maggistraße 5",
+    "city": "Singen",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://zahnzentrumbodensee.de/",
+    "phone": "+49 7731 187380",
+    "categories": [
+      "Dental clinic",
+      "Dental radiology",
+      "Emergency dental service",
+      "Orthodontist",
+      "Pediatric dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnzentrum%20Bodensee&query_place_id=ChIJJ_KSqBV9mkcR8jewGEdEJs4",
+    "categoryName": "Dental clinic"
+  },
+  {
+    "title": "Frau Angelika Lee",
+    "totalScore": 4.4,
+    "reviewsCount": 13,
+    "street": "Bundesstraße 124",
+    "city": "Roetgen",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://www.zahnarzt-roetgen.de/",
+    "phone": "+49 2471 133001",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Frau%20Angelika%20Lee&query_place_id=ChIJKxWRmoF9v0cRyjQuusuNHLg",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "MEDECO Dental Clinic Berlin-Tempelhof",
+    "totalScore": 4.9,
+    "reviewsCount": 165,
+    "street": "Mariendorfer Damm 19-21",
+    "city": "Berlin",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.mvzmedeco.berlin/standort-tempelhof",
+    "phone": "+49 30 70794900",
+    "categories": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dentist",
+      "Denture care center",
+      "Emergency dental service"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=MEDECO%20Dental%20Clinic%20Berlin-Tempelhof&query_place_id=ChIJd7Ji5VBFqEcRU4Bp7ADTldE",
+    "categoryName": "Dental clinic"
+  },
+  {
+    "title": "CASA Dentalis Lichterfelde",
+    "totalScore": 4.9,
+    "reviewsCount": 423,
+    "street": "Drakestraße 23A",
+    "city": "Berlin",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.casa-dentalis.de/lichterfelde/",
+    "phone": "+49 30 53141910",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Denture care center",
+      "Emergency dental service",
+      "Oral surgeon",
+      "Orthodontist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=CASA%20Dentalis%20Lichterfelde&query_place_id=ChIJB3KxH1laqEcR0Yx4IbQUrBo",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Spangdahlem AB Dental Clinic",
+    "totalScore": 5,
+    "reviewsCount": 4,
+    "street": "XPP3+VG",
+    "city": "Spangdahlem",
+    "state": null,
+    "countryCode": "DE",
+    "website": null,
+    "phone": null,
+    "categories": [
+      "Dental clinic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Spangdahlem%20AB%20Dental%20Clinic&query_place_id=ChIJdXYeB5TRv0cRA7qsXoQ7DQ0",
+    "categoryName": "Dental clinic"
+  },
+  {
+    "title": "Zahnarzt Berlin Schöneberg - Dental21 (ehemals Dentalzentrum Plus)",
+    "totalScore": 4.9,
+    "reviewsCount": 562,
+    "street": "Potsdamer Str. 160",
+    "city": "Berlin",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.dental21-schoeneberg.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "phone": "+49 30 280446680",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Denture care center",
+      "Endodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarzt%20Berlin%20Sch%C3%B6neberg%20-%20Dental21%20(ehemals%20Dentalzentrum%20Plus)&query_place_id=ChIJdyGE7kxRqEcRXKmWCUGtsNw",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Baumholder Dental Clinic",
+    "totalScore": 4.4,
+    "reviewsCount": 5,
+    "street": "Fern Street 8653",
+    "city": "Baumholder",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.facebook.com/BaumholderDentalClinic/",
+    "phone": "+49 6371 94641009",
+    "categories": [
+      "Dental clinic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Baumholder%20Dental%20Clinic&query_place_id=ChIJ4XjaHyrulUcRlWXUZhjTnFQ",
+    "categoryName": "Dental clinic"
+  },
+  {
+    "title": "Dental Laser Care",
+    "totalScore": 4.9,
+    "reviewsCount": 227,
+    "street": "Goldammerstraße 10-12",
+    "city": "Bremerhaven",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://dental-laser-care.de/",
+    "phone": "+49 471 34727",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dental%20Laser%20Care&query_place_id=ChIJQfR2PlCxtkcR5XsLGOdadXc",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Grafenwoehr Army Health Clinic",
+    "totalScore": 2,
+    "reviewsCount": 58,
+    "street": "Bldg 475",
+    "city": "Grafenwöhr",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://mhs-europe.tricare.mil/grafenwoehr",
+    "phone": "+49 6371 94643000",
+    "categories": [
+      "Medical clinic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Grafenwoehr%20Army%20Health%20Clinic&query_place_id=ChIJD7ftKRQ1oEcRHQobfqVWIis",
+    "categoryName": "Medical clinic"
+  },
+  {
+    "title": "Zahnarzt Hannover Zahnklinik AAI",
+    "totalScore": 5,
+    "reviewsCount": 28,
+    "street": "Walsroder Str. 93/2. Etage",
+    "city": "Langenhagen",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.aai-zahnarzt-zahnklinik-hannover.de/",
+    "phone": "+49 511 723272",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Denture care center",
+      "Emergency dental service",
+      "Orthodontist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarzt%20Hannover%20Zahnklinik%20AAI&query_place_id=ChIJR8V3tOVysEcRdYMe9SfyKvs",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnheilkunde Nordeifel",
+    "totalScore": 5,
+    "reviewsCount": 1,
+    "street": "Laufenstraße 47",
+    "city": "Monschau",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.zahnheilkunde-nordeifel.de/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6042171561084281037",
+    "phone": "+49 2472 5155",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnheilkunde%20Nordeifel&query_place_id=ChIJ-RucqnJ_v0cRvK7BQImKmhI",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarztpraxis Bach",
+    "totalScore": 4.9,
+    "reviewsCount": 69,
+    "street": "Göttinger Str. 65",
+    "city": "Hemmingen",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://www.zahnarztpraxis-bach.de/",
+    "phone": "+49 5101 852616",
+    "categories": [
+      "Dentist",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Pediatric dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarztpraxis%20Bach&query_place_id=ChIJi0mQZagKsEcRytYWBfEufIc",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarzt Augsburg - Dein Dental",
+    "totalScore": 4.4,
+    "reviewsCount": 102,
+    "street": "Hermanstraße 15",
+    "city": "Augsburg",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://dein-dental-augsburg.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+    "phone": "+49 821 207583",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Denture care center",
+      "Emergency dental service",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarzt%20Augsburg%20-%20Dein%20Dental&query_place_id=ChIJUeheE8y9nkcRfIC8MGdxOwU",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarzt Augsburg - Dental21",
+    "totalScore": 4.9,
+    "reviewsCount": 507,
+    "street": "Karlstraße 9",
+    "city": "Augsburg",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.dental21-augsburg.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "phone": "+49 821 99951625",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Denture care center",
+      "Endodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarzt%20Augsburg%20-%20Dental21&query_place_id=ChIJ8TPgqeu9nkcRd0BX43c2VXA",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Medeco dental clinic Hamburg",
+    "totalScore": 3.5,
+    "reviewsCount": 27,
+    "street": "Friedensallee 275",
+    "city": "Hamburg",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://m.medeco.de/zahnklinikenzentren/hamburg/",
+    "phone": "+49 40 3803830",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Denture care center",
+      "Emergency dental service",
+      "Periodontist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medeco%20dental%20clinic%20Hamburg&query_place_id=ChIJRzpRHZaFsUcRsw67evekEKE",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "AllDent Zahnzentrum Karlsruhe GmbH",
+    "totalScore": 4.9,
+    "reviewsCount": 721,
+    "street": "Karlstraße 14",
+    "city": "Karlsruhe",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.alldent-zahnzentrum-karlsruhe.de/",
+    "phone": "+49 721 1812560",
+    "categories": [
+      "Dentist",
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Denture care center",
+      "Emergency dental service",
+      "Endodontist",
+      "Urgent care center"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=AllDent%20Zahnzentrum%20Karlsruhe%20GmbH&query_place_id=ChIJNxJvS5MHl0cRUf4MMqsbs3E",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarzt Karlsruhe - Dein Dental",
+    "totalScore": 4.5,
+    "reviewsCount": 299,
+    "street": "Kaiserstraße 94a",
+    "city": "Karlsruhe",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://dein-dental-karlsruhe.de/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+    "phone": "+49 721 1208370",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Oral surgeon",
+      "Pediatric dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarzt%20Karlsruhe%20-%20Dein%20Dental&query_place_id=ChIJG0Az2CUHl0cRGSKLUnTz9LY",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Dentalplus Medizinisches Versorgungszentrum (MVZ)",
+    "totalScore": 4.6,
+    "reviewsCount": 115,
+    "street": "Egerstraße 7",
+    "city": "Wiesbaden",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://www.dentalplus.de/",
+    "phone": "+49 611 9500070",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Denture care center",
+      "Emergency dental service"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dentalplus%20Medizinisches%20Versorgungszentrum%20(MVZ)&query_place_id=ChIJi23GrGO9vUcRv2zisSrSRqs",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "AllDent Zahnzentrum Wiesbaden",
+    "totalScore": 5,
+    "reviewsCount": 3186,
+    "street": "Kaiser-Friedrich-Ring 98",
+    "city": "Wiesbaden",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.alldent-zahnzentrum-wiesbaden.de/",
+    "phone": "+49 611 9500920",
+    "categories": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Denture care center",
+      "Emergency dental service"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=AllDent%20Zahnzentrum%20Wiesbaden&query_place_id=ChIJOxh2Gju9vUcR2sR_bMG1Sh0",
+    "categoryName": "Dental clinic"
+  },
+  {
+    "title": "AllDent Zahnzentrum Mannheim",
+    "totalScore": 4.9,
+    "reviewsCount": 1671,
+    "street": "D1 4-8",
+    "city": "Mannheim",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.alldent-zahnzentrum-mannheim.de/",
+    "phone": "+49 621 7029210",
+    "categories": [
+      "Dentist",
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Denture care center",
+      "Emergency care service",
+      "Emergency dental service",
+      "Emergency room",
+      "Endodontist",
+      "Urgent care center"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=AllDent%20Zahnzentrum%20Mannheim&query_place_id=ChIJe7HTBVPNl0cR9uykIQvZt6I",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarzt Dortmund - Dental21",
+    "totalScore": 4.7,
+    "reviewsCount": 491,
+    "street": "Königswall 28",
+    "city": "Dortmund",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.dental21-dortmund.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "phone": "+49 231 812720",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Denture care center",
+      "Endodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarzt%20Dortmund%20-%20Dental21&query_place_id=ChIJMxDef1QZuUcRe5lNb_E8YLY",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Dental Center Hannover Hemmingen",
+    "totalScore": 4.6,
+    "reviewsCount": 74,
+    "street": "Weetzener Landstraße 124",
+    "city": "Hemmingen",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.zahnaerztezentrum.de/",
+    "phone": "+49 511 87813030",
+    "categories": [
+      "Dentist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dental%20Center%20Hannover%20Hemmingen&query_place_id=ChIJzxxAoE51sEcRGX271H_j8CY",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "AllDent Zahnzentrum Augsburg",
+    "totalScore": 4.9,
+    "reviewsCount": 2479,
+    "street": "Viktoriastraße 7",
+    "city": "Augsburg",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.alldent-zahnzentrum-augsburg.de/",
+    "phone": "+49 821 9997930",
+    "categories": [
+      "Dentist",
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Denture care center",
+      "Emergency care service",
+      "Emergency dental service",
+      "Emergency room",
+      "Endodontist",
+      "Urgent care center"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=AllDent%20Zahnzentrum%20Augsburg&query_place_id=ChIJUQaSDLu9nkcRLSAGgrvxXkA",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarzt Hamburg - Dental21",
+    "totalScore": 4.9,
+    "reviewsCount": 491,
+    "street": "Sternstraße 105",
+    "city": "Hamburg",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.dental21-sternschanze.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "phone": "+49 40 55613988",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Denture care center",
+      "Endodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarzt%20Hamburg%20-%20Dental21&query_place_id=ChIJ1QmG5UGPsUcRqnORPkhGrBo",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Dental Family – Zentrum für Implantologie und Implantatprothetik | Dr. Dr. Andreas Pohl | Jahnsdorf bei Chemnitz",
+    "totalScore": 4.5,
+    "reviewsCount": 155,
+    "street": "Chemnitzer Str. 61A",
+    "city": "Jahnsdorf",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.zahnarzt-chemnitz.de/",
+    "phone": "+49 3721 36005",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dental%20Family%20%E2%80%93%20Zentrum%20f%C3%BCr%20Implantologie%20und%20Implantatprothetik%20%7C%20Dr.%20Dr.%20Andreas%20Pohl%20%7C%20Jahnsdorf%20bei%20Chemnitz&query_place_id=ChIJD8PSWadJp0cR8wACMwYVuss",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Zahnarzt Wiesbaden Dental21",
+    "totalScore": 4.9,
+    "reviewsCount": 837,
+    "street": "Friedrichstraße 34",
+    "city": "Wiesbaden",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://www.dental21-wiesbaden.de/?utm_medium=directory&utm_source=google&utm_campaign=bookings_directory_google",
+    "phone": "+49 611 72447887",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental clinic",
+      "Dental hygienist",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Denture care center",
+      "Endodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zahnarzt%20Wiesbaden%20Dental21&query_place_id=ChIJsR7FTxy9vUcRRkXrFv0b0k8",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "Medeco dental clinic Berlin-Neukölln",
+    "totalScore": 4.8,
+    "reviewsCount": 124,
+    "street": "Karl-Marx-Straße 27",
+    "city": "Berlin",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://www.medeco.de/",
+    "phone": "+49 30 6273090",
+    "categories": [
+      "Dental clinic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medeco%20dental%20clinic%20Berlin-Neuk%C3%B6lln&query_place_id=ChIJjcAHGLpPqEcRuUAS02GygTE",
+    "categoryName": "Dental clinic"
+  },
+  {
+    "title": "KINDERDENTIST-Praxis Neukölln",
+    "totalScore": 4.8,
+    "reviewsCount": 418,
+    "street": "Karl-Marx-Straße 188",
+    "city": "Berlin",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://kinderdentist.de/unsere-standorte/neukoelln/?utm_source=google&utm_medium=gbp&utm_campaign=gbp_kd_neukoelln",
+    "phone": "+49 30 695282666",
+    "categories": [
+      "Pediatric dentist",
+      "Dentist",
+      "Orthodontist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=KINDERDENTIST-Praxis%20Neuk%C3%B6lln&query_place_id=ChIJ49pOBDtPqEcRuexPZsT-i3s",
+    "categoryName": "Pediatric dentist"
+  },
+  {
+    "title": "Ku64",
+    "totalScore": 4.7,
+    "reviewsCount": 678,
+    "street": "Kurfürstendamm 64",
+    "city": "Berlin",
+    "state": null,
+    "countryCode": "DE",
+    "website": "https://ku64.de/",
+    "phone": "+49 30 8647320",
+    "categories": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Cosmetics store",
+      "Dental implants periodontist",
+      "Dental implants provider",
+      "Denture care center",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Teeth whitening service"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ku64&query_place_id=ChIJ79fcE-ZQqEcRn2qA5pOz-Xc",
+    "categoryName": "Dentist"
+  },
+  {
+    "title": "SmartDent Zahnarzt Zentrum für Zahnheilkunde Duisburg",
+    "totalScore": 4.9,
+    "reviewsCount": 122,
+    "street": "Heerstraße 140/142",
+    "city": "Duisburg",
+    "state": null,
+    "countryCode": "DE",
+    "website": "http://www.smart-dent.com/",
+    "phone": "+49 203 93563777",
+    "categories": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental supply store",
+      "Dentist",
+      "Denture care center",
+      "Emergency dental service",
+      "Medical office",
+      "Pediatric dentist",
+      "Periodontist"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=SmartDent%20Zahnarzt%20Zentrum%20f%C3%BCr%20Zahnheilkunde%20Duisburg&query_place_id=ChIJSyfTfyS_uEcRZ1SPRboU-fs",
+    "categoryName": "Dental clinic"
+  }
+]

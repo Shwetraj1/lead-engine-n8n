@@ -1,0 +1,38 @@
+{
+  "includeWebResults": false,
+  "language": "en",
+  "leadsEnrichmentDepartments": [
+    "marketing"
+  ],
+  "locationQuery": "Germany",
+  "maxCrawledPlacesPerSearch": 100,
+  "maximumLeadsEnrichmentRecords": 1,
+  "placeMinimumStars": "two",
+  "scrapeContacts": false,
+  "scrapeDirectories": false,
+  "scrapeImageAuthors": false,
+  "scrapePlaceDetailPage": true,
+  "scrapeReviewsPersonalData": true,
+  "scrapeSocialMediaProfiles": {
+    "facebooks": false,
+    "instagrams": false,
+    "tiktoks": false,
+    "twitters": false,
+    "youtubes": false
+  },
+  "scrapeTableReservationProvider": false,
+  "searchStringsArray": [
+    "dentist",
+    "dental clinics"
+  ],
+  "skipClosedPlaces": false,
+  "searchMatching": "all",
+  "website": "allPlaces",
+  "maxQuestions": 0,
+  "maxReviews": 0,
+  "reviewsSort": "newest",
+  "reviewsFilterString": "",
+  "reviewsOrigin": "all",
+  "maxImages": 0,
+  "allPlacesNoSearchAction": ""
+}
